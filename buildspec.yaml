@@ -16,6 +16,6 @@ phases:
      
 artifacts:
   files:
-     - 'target/MyApplication-1-0.0.1-SNAPSHOT.war'
+     - 'target/ROOT.war'
 #    - 'target/*.war'
   discard-paths: yes
